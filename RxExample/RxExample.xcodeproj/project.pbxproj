@@ -304,7 +304,9 @@
 		2864D5F11D995FCD004F8484 /* Application+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Application+Extensions.swift"; sourceTree = "<group>"; };
 		780D63DF226B305D00BEACB0 /* RxPlaygrounds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RxPlaygrounds.swift; sourceTree = "<group>"; };
 		780D63E2226B320A00BEACB0 /* Rx.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = Rx.playground; path = ../Rx.playground; sourceTree = "<group>"; };
+		7838328222AE1AB500FC2622 /* Chapter3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter3.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		787BBB5A226B2A6100279500 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		78D3F24322A7AB600009F4F2 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8479BC701C3BCB9800FB8B54 /* ImagePickerController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImagePickerController.swift; sourceTree = "<group>"; };
 		A5CD038E1F1670E50005A376 /* CustomPickerViewAdapterExampleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomPickerViewAdapterExampleViewController.swift; sourceTree = "<group>"; };
 		AE51C1C81DE735D8005BAF5F /* APIWrappers.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = APIWrappers.storyboard; sourceTree = "<group>"; };
@@ -633,6 +635,8 @@
 		C83366D41AD0293800C668A7 = {
 			isa = PBXGroup;
 			children = (
+				7838328222AE1AB500FC2622 /* Chapter3.playground */,
+				78D3F24322A7AB600009F4F2 /* MyPlayground.playground */,
 				780D63E2226B320A00BEACB0 /* Rx.playground */,
 				C81B39F11BC1C28400EF5A9F /* Rx.xcodeproj */,
 				C8B290A51C959D2900E923D0 /* RxDataSources */,
